@@ -1,4 +1,5 @@
 # Correlation and regression for data analysis
+# Name : NAVEEN KUMAR S
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
